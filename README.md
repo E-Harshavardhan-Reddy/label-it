@@ -1,9 +1,17 @@
+---
+title: LabelIt!
+emoji: 🏷️
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.47.1"
+app_file: app.py
+pinned: false
+---
+
 # 🏷️ LabelIt! – Multilingual Image Labeling Platform
 
-LabelIt! is a modern, multilingual image labeling platform built with **Streamlit**. It enables users to upload images, classify them into categories, add labels in multiple Indian languages, capture geolocation information, and visualize annotation statistics through interactive dashboards.
-
-The application is designed for creating high-quality datasets for machine learning, computer vision, and AI research while providing an intuitive user experience.
-
+LabelIt! is a modern, multilingual image labeling platform...
 ---
 
 # ✨ Features
