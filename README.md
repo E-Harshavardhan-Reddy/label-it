@@ -10,6 +10,7 @@ pinned: false
 ---
 
 # 🏷️ LabelIt! – Multilingual Image Labeling Platform
+live app:https://label-it-aceqhmqf33rwndgcqrgwal.streamlit.app/
 
 LabelIt! is a modern, multilingual image labeling platform...
 ---
